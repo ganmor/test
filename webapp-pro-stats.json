@@ -1,0 +1,12 @@
+{
+  "assetsByChunkName": {
+    "main": [
+      "main.js",
+      "main.js.map"
+    ],
+    "lms-integration": [
+      "lms-integration.js",
+      "lms-integration.js.map"
+    ]
+  }
+}
